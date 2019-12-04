@@ -139,6 +139,12 @@
           "configurations": {
             "production": {
               "tsConfig": "projects/sportsbook/tsconfig.lib.prod.json"
+            },
+            "betonline": {
+              "project": "projects/sportsbook/ng-package.betonline.json"
+            },
+            "sportsbetting": {
+              "project": "projects/sportsbook/ng-package.sportsbetting.json"
             }
           }
         },

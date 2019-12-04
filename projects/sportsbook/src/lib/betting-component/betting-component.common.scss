@@ -1,0 +1,3 @@
+/*Common Styles for different Marks goes here*/
+/*Specific Styles for different marks loads after, you can do mixin there on src\lib\styles\<Mark>\<componentName>.scss*/
+@import 'betting-component.component.scss';
