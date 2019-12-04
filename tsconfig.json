@@ -18,14 +18,6 @@
       "es2018",
       "dom"
     ],
-    "paths": {
-      "sportsbook": [
-        "dist/sportsbook"
-      ],
-      "sportsbook/*": [
-        "dist/sportsbook/*"
-      ]
-    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
